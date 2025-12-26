@@ -1,3 +1,4 @@
-CREDITS:
-Owner: Wikypedia
-Coder(s): Hgk_ultra
+	CREDITS:
+	
+	Owner: Wikypedia
+	Coder: Hgk_ultra
