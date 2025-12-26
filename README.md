@@ -1,4 +1,4 @@
 	CREDITS:
 	
-	Owner: Wikypedia
-	Coder: Hgk_ultra
+	Wikypedia: Owner, Artist
+	Hgk_ultra: Coder
